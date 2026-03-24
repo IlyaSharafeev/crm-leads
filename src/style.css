@@ -1,0 +1,6 @@
+/* Vuetify handles global styles; minimal resets only */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
